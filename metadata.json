@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu - Agri Market Intelligence & Direct Linkage",
+  "description": "Farmer-centric agricultural market intelligence, regional voice assistance, transparent mandi price discovery, smart buyer-matching optimization, direct farm-gate trade, and logistics coordination.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
